@@ -16,3 +16,12 @@ V2ray 使用教程
 > 购买腾讯云 · 服务器链接：https://curl.qcloud.com/FkC8UC4M
 
 ![image](https://github.com/user-attachments/assets/e6b08876-4e3e-453e-8a37-d9eb1f54acff)
+
+下拉到下面这个页面：
+
+![image](https://github.com/user-attachments/assets/f6fde203-a9fb-4ee1-8c2d-1fc0e2a3697c)
+
+** 温馨提示：
+1. 选购服务器的时候，千万要注意，不要选成国内的了。选成国内的服务器，配置好v2ray也无法科学上网。
+2. 选择服务器所在地址的时候，最好选择东南亚，比如新加坡。相对来说，香港和新加坡网速较快，但香港IP的话，有些网站和工具会被限制，原因你懂得。
+3. 点击立即购买后，会提示用微信登录，用自己常用的微信，后面做配置的时候，还会经常需要微信扫码！
