@@ -14,3 +14,4 @@ V2ray 使用教程
 3. 国内服务器，操作面板全中文，相对国外服务器对新人友好，操作门槛低。
 4. 安装配置简单，无需另外安装Xshell和fpt等软件。
 > 购买腾讯云 · 服务器链接：https://curl.qcloud.com/FkC8UC4M
+![image](https://github.com/user-attachments/assets/e6b08876-4e3e-453e-8a37-d9eb1f54acff)
